@@ -1,4 +1,4 @@
-package com.sparta.jpaadvence;
+package com.sparta.jpaadvance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
